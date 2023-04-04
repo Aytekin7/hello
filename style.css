@@ -1,0 +1,66 @@
+
+
+
+p span{
+    border: 3px solid;
+}
+span.login{
+    border: 3px solid;
+    background-color: red;
+
+}
+h1.save{
+    background-color: yellow;
+}
+.add{
+    border: 1px solid;
+    background-color: green;
+}
+
+
+ul.private{
+    background-color: yellow;
+}
+.before{
+    color:red;
+    border: 5px solid;
+    border-color: blueviolet;
+}
+
+.inside{
+    background-color: blue;
+    color: black;
+    
+    width: 200px;
+    height: 20px;
+}
+.hi{
+    /*border: none;*/
+    color: black;
+}
+#search{
+    
+    color: black;
+    background-color: green;
+    height: 25px;
+
+    
+
+}
+.select{
+    color:red;
+    
+
+}
+#level{
+    
+    background-color: green;
+    height: 25px;
+    color: black;
+    
+}
+
+.after{
+    background-color: yellow;
+}
+
